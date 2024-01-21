@@ -42,4 +42,4 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/torneighdo/modern-text-editor/blob/main/LICENSE).
