@@ -32,8 +32,9 @@ git clone https://github.com/torneighdo/modern-text-editor.git
 ```
 ```bash
 cd your-repository
-Open index.html your web browser.
 ```
+Open index.html your web browser.
+
 
 ## Contributing
 
