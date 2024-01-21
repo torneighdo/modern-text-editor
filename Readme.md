@@ -23,17 +23,6 @@ Modern Text Editor is a modern web-based text editor with a clean and intuitive 
 3. Customize fonts and colors as needed.
 4. Enjoy a clean and modern text editing experience.
 
-## Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/torneighdo/modern-text-editor.git
-```bash
-cd your-repository
-
-Open index.html your web browser.
-
 
 ##Contributing
 
